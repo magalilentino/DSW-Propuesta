@@ -30,7 +30,7 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Perosna<br>2. CRUD Servicio<br>3. CRUD marca<br>4. CRUD Tono|
-|CRUD dependiente|1. CRUD Producto {depende de} CRUD Marca<br>2. CRUD  {depende de} CRUD|
+|CRUD dependiente|1. CRUD Producto {depende de} CRUD Marca<br>2. CRUD Precio {depende de} CRUD Servicio|
 |Listado<br>+<br>detalle| 1. Listado de productos filtrado por marca y categoría, muestra id y descripcion => detalle CRUD Producto<br>2. Listado de servicios filtrado por rango de precio, muestra nombre, descipcion y precio=> detalle muestra datos completos de los servicios correspondientes al rango de precio con su precio.|
 |CUU/Epic|1. registrar atencion de clientes<br>2. mostrar listado de atenciones realizadas al cliente|
 
