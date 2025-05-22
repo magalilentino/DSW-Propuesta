@@ -18,7 +18,7 @@
 Sistema en el que los peluqueros registran las atenciones de cada cliente (fecha, servicio que se realizó, peluquero que lo realizó) y los clientes pueden acceder a estos y a un listado de los servicios con sus respectivos precios que se realizan en la peluquería. Además, por parte de los peluqueros, contarán con un registro de la fórmula utilizada para el color y los productos utilizados. 
 
 ### Modelo
-![DER]((https://github.com/user-attachments/assets/3f0c69eb-faff-4cad-a741-c4612fcf1947))
+![DER](https://github.com/user-attachments/assets/3f0c69eb-faff-4cad-a741-c4612fcf1947)
 
 
 
