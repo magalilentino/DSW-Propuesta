@@ -32,7 +32,7 @@ Regularidad:
 |CRUD simple|1. CRUD Perosna<br>2. CRUD Servicio<br>3. CRUD Marca<br>4. CRUD Categoria|
 |CRUD dependiente|1. CRUD Producto {depende de} CRUD Marca<br>2. CRUD Formula {depende de} CRUD Tono y CRUD Producto|
 |Listado<br>+<br>detalle| 1. Listado de productos filtrado por marca y categoría, muestra id y descripcion => detalle CRUD Producto<br>2. Listado de servicios filtrado por rango de precio, muestra nombre, descipcion y precio=> detalle muestra datos completos de los servicios correspondientes al rango de precio con su precio.|
-|CUU/Epic|1. registrar atencion de clientes<br>2. mostrar listado de atenciones realizadas al cliente|
+|CUU/Epic|1. registrar atencion de clientes (registrar productos usados en la atencion y especificaciones) <br>2. solicitar turno|
 
 
 Adicionales para Aprobación
@@ -46,7 +46,6 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Clientes filtrados por turnos y deudas pendientes<br>2. Turnos filtrados por clientes que requieren color|
-|CUU/Epic|1. cancelar turno<br>2. notificar descuento al cliente|
+|Listados |1. Atenciones filtradas por estado<br>2. Turnos filtrados por clientes que requieren color|
+|CUU/Epic|1. seleccionar aplicar descuento en el proximo servicio <br>2. notificar descuento al cliente|
 |Otros|1. envío de preparación previa a los clientes que realizan su primera visita y requieren color|
-
