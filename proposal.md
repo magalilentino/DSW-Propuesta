@@ -18,7 +18,7 @@
 Sistema en el que los peluqueros registran las atenciones de cada cliente (fecha, servicio que se realizó, peluquero que lo realizó) y los clientes pueden acceder a estos y a un listado de los servicios con sus respectivos precios que se realizan en la peluquería. Además, por parte de los peluqueros, contarán con un registro de la fórmula utilizada para el color y los productos utilizados. 
 
 ### Modelo
-![DER](https://github.com/user-attachments/assets/ba7913e6-652c-4f4a-8ab2-5e61bbd922ac)
+![DER](https://github.com/user-attachments/assets/8d978537-d875-4089-9819-499c79ddd499)
 
 
 
@@ -48,4 +48,4 @@ Adicionales para Aprobación
 |:-|:-|
 |Listados |1. Atenciones filtradas por estado<br>2. Turnos filtrados por clientes que requieren color|
 |CUU/Epic|1. seleccionar aplicar descuento en el proximo servicio <br>2. notificar descuento al cliente|
-|Otros|1. envío de preparación previa a los clientes que realizan su primera visita y requieren color|
+|Otros|1. envío de preparación previa a los clientes que requieren color|
